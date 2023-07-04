@@ -1,0 +1,8 @@
+D:\GitHub\Project\CGO_BAI1.1\CGO_BAI1.1\bin\Debug\CGO_BAI1.1.exe.config
+D:\GitHub\Project\CGO_BAI1.1\CGO_BAI1.1\bin\Debug\CGO_BAI1.1.exe
+D:\GitHub\Project\CGO_BAI1.1\CGO_BAI1.1\bin\Debug\CGO_BAI1.1.pdb
+D:\GitHub\Project\CGO_BAI1.1\CGO_BAI1.1\obj\Debug\CGO_BAI1.1.csproj.AssemblyReference.cache
+D:\GitHub\Project\CGO_BAI1.1\CGO_BAI1.1\obj\Debug\CGO_BAI1.1.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Project\CGO_BAI1.1\CGO_BAI1.1\obj\Debug\CGO_BAI1.1.csproj.CoreCompileInputs.cache
+D:\GitHub\Project\CGO_BAI1.1\CGO_BAI1.1\obj\Debug\CGO_BAI1.1.exe
+D:\GitHub\Project\CGO_BAI1.1\CGO_BAI1.1\obj\Debug\CGO_BAI1.1.pdb
